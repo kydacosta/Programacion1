@@ -1,0 +1,49 @@
+Match / Case
+Es una estructura de control que permite comparar una variable contra varios patrones. 
+Facilita la escritura de decisiones múltiples de forma más clara y organizada, 
+similar a un switch en otros lenguajes.
+
+
+
+if, elif, else
+Son sentencias condicionales que permiten ejecutar ciertos bloques de código dependiendo de 
+si una condición es verdadera o falsa. if evalúa la primera condición, elif 
+permite añadir condiciones adicionales, y else se ejecuta cuando ninguna de las anteriores se cumple.
+
+
+
+if __name__ == "__main__":
+    text()
+Se utiliza para indicar que cierta parte del código debe ejecutarse únicamente 
+cuando el archivo es ejecutado de manera directa y no cuando es importado como 
+módulo en otro script. En Python, la variable especial __name__ toma el valor "__main__" 
+solo cuando el archivo se ejecuta por sí mismo; por ello, este bloque permite controlar 
+el punto de inicio del programa.
+
+
+
+Colorama
+Es una librería utilizada para imprimir texto coloreado y con estilos en la terminal. Facilita 
+agregar colores y formatos a los mensajes, permitiendo interfaces de consola más visuales y legibles.
+
+
+
+Pandas
+Es una biblioteca especializada en el manejo y análisis de datos. 
+Proporciona estructuras como DataFrame, que permiten organizar, limpiar y manipular 
+datos de manera eficiente, siendo ampliamente utilizada en ciencia de datos y análisis estadístico.
+
+
+
+Matplotlib
+Es una librería enfocada en la creación de gráficos. 
+Permite generar visualizaciones como barras, líneas, histogramas 
+y gráficos estadísticos, siendo una de las herramientas principales 
+en el análisis visual de datos.
+
+
+
+Tkinter
+Es la biblioteca estándar de Python para crear interfaces gráficas (GUI). 
+Proporciona ventanas, botones, menús, cuadros de texto 
+y otros elementos visuales para desarrollar aplicaciones de escritorio de manera sencilla.
